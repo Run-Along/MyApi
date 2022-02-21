@@ -1,0 +1,15 @@
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\bin\Debug\net6.0\Activity_04.exe
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\bin\Debug\net6.0\Activity_04.deps.json
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\bin\Debug\net6.0\Activity_04.runtimeconfig.json
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\bin\Debug\net6.0\Activity_04.dll
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\bin\Debug\net6.0\ref\Activity_04.dll
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\bin\Debug\net6.0\Activity_04.pdb
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.csproj.AssemblyReference.cache
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.AssemblyInfoInputs.cache
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.AssemblyInfo.cs
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.csproj.CoreCompileInputs.cache
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.dll
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\ref\Activity_04.dll
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.pdb
+D:\Documents\02. Hunter\01. Programs\Class Programs - 395\ACTIVITY_04\Activity_04\Activity_04\obj\Debug\net6.0\Activity_04.genruntimeconfig.cache
